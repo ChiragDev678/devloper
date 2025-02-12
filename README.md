@@ -1,3 +1,4 @@
 # devloper
 This is my first  Git Repository.
-Author = Chirag Sharma
+<br>
+Author - Chirag Sharma
